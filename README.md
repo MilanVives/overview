@@ -28,7 +28,7 @@ Ansible
 #### [MacAdmin MacOS Automatic Deployment and User Management](https://github.com/MilanVives/Macadmin)
 Neovim install and config
 #### [Neovim Installation script and config](https://github.com/MilanVives/nvim)
-#### [Ubuntu Linux Server Bash Scripts PRIVATE](https://github.com/MilanVives/ServerBashScripts)
+
 
 # DrawIO
 
@@ -74,6 +74,8 @@ https://github.com/MilanVives/LaTexTemplateOpdracht
 
 # Linux
 #### [Linux Course and slides LaTex](https://github.com/u0148477/IntroductionToLinux)
+#### [Ubuntu Linux Server Bash Scripts PRIVATE](https://github.com/MilanVives/ServerBashScripts)
+
 TODO
 
 https://github.com/MilanVives/cheat-sheets
