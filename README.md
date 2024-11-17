@@ -10,6 +10,7 @@ Dockerfile, Docker-compose, Github Actions CI-CD
 
 Ansible, OpenTofu (Terraform)
 #### [Infrastructure as Code](https://github.com/MilanVives/iac) 
+#### [Nginx Load Balancer](https://github.com/MilanVives/nginxloadbalancer)
 #### [Jenkins Docker in Docker](https://github.com/MilanVives/JenkinsDockerInDocker)
 #### [Traefik PUBLIC](https://github.com/MilanVives/Traefik)
 #### [](
@@ -18,7 +19,7 @@ Ansible, OpenTofu (Terraform)
 #### [](https://github.com/MilanVives/minikube-demo
 #### [](https://github.com/MilanVives/Kubernetes
 #### [](https://github.com/MilanVives/gcpProject
-#### [](https://github.com/MilanVives/nginxloadbalancer
+
 #### [](https://github.com/MilanVives/dcoefeningwebshop
 
 
