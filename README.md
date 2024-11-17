@@ -38,6 +38,8 @@ Neovim install and config
 
 #Node.js
 
+#### [Node.js Express Mongoose boilerplate EXTENDED](https://github.com/MilanVives/node-express-boilerplate)
+#### [Node best practices](https://github.com/MilanVives/nodebestpractices)
 #### [NodeVivesFiles Embedding Referencing & ObjectID's PUBLIC](https://github.com/MilanVives/NodeVivesFiles)
 #### [NodeLes4 PUBLIC](https://github.com/MilanVives/Node_les4)
 https://github.com/MilanVives/node-test-les3
@@ -59,13 +61,19 @@ https://github.com/MilanVives/1stnode
 
 
 #OS
-####[Scheduling Algorithms in javascript](https://github.com/MilanVives/OS-SchedulingAlgorithms)
+#### [Scheduling Algorithms in javascript](https://github.com/MilanVives/OS-SchedulingAlgorithms)
+
+#MISC
+#### [Mindmap collection](https://github.com/MilanVives/Mindmap)
 
 # Documentation
 
 #### [Mintlify](https://github.com/MilanVives/docs)
+#### [LatexAssignmentTemplate](https://github.com/MilanVives/laTexAssignmentTemplate)
 https://github.com/MilanVives/LaTexTemplateOpdracht
 
+# Linux
+#### [Linux Course and slides LaTex](https://github.com/u0148477/IntroductionToLinux)
 TODO
 
 https://github.com/MilanVives/cheat-sheets
