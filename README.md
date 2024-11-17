@@ -58,6 +58,9 @@ https://github.com/MilanVives/NodeLes2
 https://github.com/MilanVives/1stnode
 
 
+#OS
+####[Scheduling Algorithms in javascript](https://github.com/MilanVives/OS-SchedulingAlgorithms)
+
 # Documentation
 
 #### [Mintlify](https://github.com/MilanVives/docs)
