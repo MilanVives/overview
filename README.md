@@ -7,7 +7,7 @@ https://github.com/MilanVives/Overzicht
 
 Dockerfile, Docker-compose, Github Actions CI-CD
 #### [3 Services - Starterproject Nodejs, JS/html and MongoDB](https://github.com/MilanVives/3services)
-#### [Docker-compose Oefening Webshop](https://github.com/MilanVives/dcoefeningwebshop)
+#### [Docker-compose Oefening Webshop Python](https://github.com/MilanVives/dcoefeningwebshop)
 
 Ansible, OpenTofu (Terraform)
 #### [Infrastructure as Code](https://github.com/MilanVives/iac) 
