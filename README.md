@@ -7,20 +7,28 @@ https://github.com/MilanVives/Overzicht
 
 Dockerfile, Docker-compose, Github Actions CI-CD
 #### [3 Services - Starterproject Nodejs, JS/html and MongoDB](https://github.com/MilanVives/3services)
+#### [Docker-compose Oefening Webshop](https://github.com/MilanVives/dcoefeningwebshop
 
 Ansible, OpenTofu (Terraform)
 #### [Infrastructure as Code](https://github.com/MilanVives/iac) 
-#### [Nginx Load Balancer](https://github.com/MilanVives/nginxloadbalancer)
-#### [Jenkins Docker in Docker](https://github.com/MilanVives/JenkinsDockerInDocker)
-#### [Traefik PUBLIC](https://github.com/MilanVives/Traefik)
-#### [](
-#### [](https://github.com/MilanVives/jenkinstest
-#### [](https://github.com/MilanVives/jenkinsles
-#### [](https://github.com/MilanVives/minikube-demo
+
+Kubernetes
+#### [Kubernetes Cloud Deploymenty Starter and Templates](https://github.com/MilanVives/Kubernetes)
 #### [](https://github.com/MilanVives/Kubernetes
 #### [](https://github.com/MilanVives/gcpProject
 
-#### [](https://github.com/MilanVives/dcoefeningwebshop
+Proxy and Forwarders
+#### [Nginx Load Balancer](https://github.com/MilanVives/nginxloadbalancer)
+#### [Traefik PUBLIC](https://github.com/MilanVives/Traefik)
+
+CI/CD
+#### [Jenkins Docker in Docker](https://github.com/MilanVives/JenkinsDockerInDocker)
+#### [](https://github.com/MilanVives/jenkinstest
+#### [](https://github.com/MilanVives/jenkinsles
+#### [](https://github.com/MilanVives/minikube-demo
+
+
+
 
 
 # Server Management
