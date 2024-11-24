@@ -14,8 +14,8 @@ Ansible, OpenTofu (Terraform)
 
 Kubernetes
 #### [Kubernetes Cloud Deploymenty Starter and Templates](https://github.com/MilanVives/Kubernetes)
-#### [Minikube Demo with Backend, Frontend, and MongoDB](https://github.com/MilanVives/minikube-demo
-#### [](https://github.com/MilanVives/gcpProject
+#### [Minikube Demo with Backend, Frontend, and MongoDB](https://github.com/MilanVives/minikube-demo)
+#### [GCP Project](https://github.com/MilanVives/gcpProject)
 
 Proxy and Forwarders
 #### [Nginx Load Balancer](https://github.com/MilanVives/nginxloadbalancer)
