@@ -100,14 +100,10 @@ TODO
 #### [](https://github.com/MilanVives/autoportforward
 #### [](https://github.com/MilanVives/OpenLdapPHPAdmin
 
-<div style="display: flex; gap: 10px;">
-  <div style="background-color: lightblue; padding: 20px; border-radius: 5px; width: 100px; text-align: center;">
-    Tile 1
-  </div>
-  <div style="background-color: lightgreen; padding: 20px; border-radius: 5px; width: 100px; text-align: center;">
-    Tile 2
-  </div>
-  <div style="background-color: lightcoral; padding: 20px; border-radius: 5px; width: 100px; text-align: center;">
-    Tile 3
-  </div>
-</div>
+### Tiles Example
+- **Tile 1**  
+  Content inside tile 1.
+- **Tile 2**  
+  Content inside tile 2.
+- **Tile 3**  
+  Content inside tile 3.
