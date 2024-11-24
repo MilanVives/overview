@@ -5,23 +5,24 @@ https://github.com/MilanVives/Overzicht
 
 # Devops
 
-Dockerfile, Docker-compose, Github Actions CI-CD
+**Dockerfile, Docker-compose, Github Actions CI-CD**
 #### [3 Services - Starterproject Nodejs, JS/html and MongoDB](https://github.com/MilanVives/3services)
 #### [Docker-compose Oefening Webshop Python](https://github.com/MilanVives/dcoefeningwebshop)
 
-Ansible, OpenTofu (Terraform)
+**Ansible, OpenTofu (Terraform)**
 #### [Infrastructure as Code Ansible and Terraform](https://github.com/MilanVives/iac) 
 
-Kubernetes
+**Kubernetes**
 #### [Kubernetes Cloud Deployment Starter and Templates](https://github.com/MilanVives/Kubernetes)
 #### [Minikube Demo with Backend, Frontend, and MongoDB](https://github.com/MilanVives/minikube-demo)
 ##### [GCP Project](https://github.com/MilanVives/gcpProject)
 
-Proxy and Forwarders
+**Proxy and Forwarders**
 #### [Nginx Load Balancer](https://github.com/MilanVives/nginxloadbalancer)
 #### [Traefik PUBLIC](https://github.com/MilanVives/Traefik)
 
-CI/CD
+**CI/CD**
+#### [3 Services - Starterproject Nodejs, JS/html and MongoDB](https://github.com/MilanVives/3services)
 #### [Jenkins Docker in Docker](https://github.com/MilanVives/JenkinsDockerInDocker)
 #### [](https://github.com/MilanVives/jenkinstest
 #### [](https://github.com/MilanVives/jenkinsles
