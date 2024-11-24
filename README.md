@@ -5,7 +5,7 @@ https://github.com/MilanVives/Overzicht
 
 # Devops
 
-<u>Dockerfile, Docker-compose, Github Actions CI-CD</u>
+Dockerfile, Docker-compose, Github Actions CI-CD
 #### [3 Services - Starterproject Nodejs, JS/html and MongoDB](https://github.com/MilanVives/3services)
 #### [Docker-compose Oefening Webshop Python](https://github.com/MilanVives/dcoefeningwebshop)
 
