@@ -10,12 +10,12 @@ Dockerfile, Docker-compose, Github Actions CI-CD
 #### [Docker-compose Oefening Webshop Python](https://github.com/MilanVives/dcoefeningwebshop)
 
 Ansible, OpenTofu (Terraform)
-#### [Infrastructure as Code](https://github.com/MilanVives/iac) 
+#### [Infrastructure as Code Ansible and Terraform](https://github.com/MilanVives/iac) 
 
 Kubernetes
-#### [Kubernetes Cloud Deploymenty Starter and Templates](https://github.com/MilanVives/Kubernetes)
+#### [Kubernetes Cloud Deployment Starter and Templates](https://github.com/MilanVives/Kubernetes)
 #### [Minikube Demo with Backend, Frontend, and MongoDB](https://github.com/MilanVives/minikube-demo)
-#### [GCP Project](https://github.com/MilanVives/gcpProject)
+##### [GCP Project](https://github.com/MilanVives/gcpProject)
 
 Proxy and Forwarders
 #### [Nginx Load Balancer](https://github.com/MilanVives/nginxloadbalancer)
