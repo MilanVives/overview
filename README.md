@@ -99,11 +99,3 @@ TODO
 #### [](https://github.com/MilanVives/Docker-and-cloud-ExamenV2
 #### [](https://github.com/MilanVives/autoportforward
 #### [](https://github.com/MilanVives/OpenLdapPHPAdmin
-
-### Tiles Example
-- **Tile 1**  
-  Content inside tile 1.
-- **Tile 2**  
-  Content inside tile 2.
-- **Tile 3**  
-  Content inside tile 3.
