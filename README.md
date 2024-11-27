@@ -39,28 +39,35 @@ https://github.com/MilanVives/Overzicht
 #### [Ubuntu Linux Server Bash Scripts PRIVATE](https://github.com/MilanVives/ServerBashScripts)
 
 # Node.js
-
-#### [Node.js Express Mongoose boilerplate EXTENDED](https://github.com/MilanVives/node-express-boilerplate)
-#### [Node best practices](https://github.com/MilanVives/nodebestpractices)
-#### [NodeVivesFiles Embedding Referencing & ObjectID's PUBLIC](https://github.com/MilanVives/NodeVivesFiles)
+#### [Node Les 1](https://github.com/MilanVives/1stnode)
+#### [Node Les 2](https://github.com/MilanVives/NodeLes2)
+#### [Node Les 3](https://github.com/MilanVives/node-test-les3)
 #### [NodeLes4 PUBLIC](https://github.com/MilanVives/Node_les4)
-#### [](https://github.com/MilanVives/node-test-les3
+#### [Node Les 5 Starter (oplossing les4) PUBLIC](https://github.com/MilanVives/Node5starter)
+#### [Node Les 6 Code PUBLIC](https://github.com/MilanVives/NodeLes6)
+#### [Node Les 7 Starter PRIVATE](https://github.com/VivesMDima/les7-starter)
+#### [Node Les 7 Code PUBLIC](https://github.com/MilanVives/NodeLes7)
+#### [Node Les 8 VivesBib Starter PRIVATE](https://github.com/VivesMDima/les8-Vivesbib-starter)
+
 #### [](https://github.com/MilanVives/node-react-cors
 #### [](https://github.com/MilanVives/AdvancedNodeStarter
 #### [](https://github.com/MilanVives/node-express-mongoose-demo
 #### [](https://github.com/MilanVives/node-express-mongoose
 #### [](https://github.com/MilanVives/NodeAppMongo
-#### [](https://github.com/MilanVives/NodeLes7
-#### [](https://github.com/MilanVives/NodeLes6
-#### [](https://github.com/MilanVives/Node5starter
+
+
+
 #### [](https://github.com/MilanVives/NodeMongoAppDocker
 #### [](https://github.com/MilanVives/mongodb_mongoose_models
 #### [](https://github.com/MilanVives/simple-node-js-react-npm-app
 #### [](https://github.com/MilanVives/mongodb_mongoose_intro
-#### [](https://github.com/MilanVives/les7-starter
-#### [](https://github.com/MilanVives/NodeLes2
-#### [](https://github.com/MilanVives/1stnode
 
+
+
+
+#### [Node.js Express Mongoose boilerplate EXTENDED](https://github.com/MilanVives/node-express-boilerplate)
+#### [Node best practices](https://github.com/MilanVives/nodebestpractices)
+#### [NodeVivesFiles Embedding Referencing & ObjectID's PUBLIC](https://github.com/MilanVives/NodeVivesFiles)
 
 #OS
 #### [Scheduling Algorithms in javascript](https://github.com/MilanVives/OS-SchedulingAlgorithms)
