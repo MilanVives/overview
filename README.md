@@ -28,7 +28,7 @@ https://github.com/MilanVives/Overzicht
 #### [](https://github.com/MilanVives/jenkinsles
 
 **Monitoring**
-#### [Prometheus-Garafana-NodeExporter-cAdvisor compose stack](https://github.com/MilanVives/monitoring)
+#### [Prometheus-Garafana-NodeExporter-cAdvisor compose stack PUBLIC](https://github.com/MilanVives/monitoring)
 
 
 
