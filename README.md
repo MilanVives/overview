@@ -17,6 +17,9 @@ https://github.com/MilanVives/Overzicht
 #### [Minikube Demo with Backend, Frontend, and MongoDB](https://github.com/MilanVives/minikube-demo)
 ##### [GCP Project](https://github.com/MilanVives/gcpProject)
 
+**Monitoring**
+#### [Prometheus-Garafana-NodeExporter-cAdvisor compose stack PUBLIC](https://github.com/MilanVives/monitoring)
+
 **Proxy and Forwarders**
 #### [Nginx Load Balancer](https://github.com/MilanVives/nginxloadbalancer)
 #### [Traefik PUBLIC](https://github.com/MilanVives/Traefik)
@@ -27,28 +30,15 @@ https://github.com/MilanVives/Overzicht
 #### [](https://github.com/MilanVives/jenkinstest
 #### [](https://github.com/MilanVives/jenkinsles
 
-**Monitoring**
-#### [Prometheus-Garafana-NodeExporter-cAdvisor compose stack PUBLIC](https://github.com/MilanVives/monitoring)
+#### [90 Days of Devops](https://github.com/MilanVives/90DaysOfDevOps)
+#### [Devops Terraform Course](https://github.com/MilanVives/devops-directive-terraform-course)
+#### [Devops Resources](https://github.com/MilanVives/devops-resources)
 
+# Linux
+#### [Linux Course and slides LaTex](https://github.com/u0148477/IntroductionToLinux)
+#### [Ubuntu Linux Server Bash Scripts PRIVATE](https://github.com/MilanVives/ServerBashScripts)
 
-
-
-# Server Management
-
-#### [MAcOS software to install](https://github.com/MilanVives/MacInstall)
-Ansible
-#### [MacAdmin MacOS Automatic Deployment and User Management](https://github.com/MilanVives/Macadmin)
-Neovim install and config
-#### [Neovim Installation script and config](https://github.com/MilanVives/nvim)
-
-
-# DrawIO
-
-#### [Opdrachten DrawIO PUBLIC](https://github.com/MilanVives/Opdrachten)
-#### [draw.io PRIVATE](https://github.com/MilanVives/draw.io)
-
-
-#Node.js
+# Node.js
 
 #### [Node.js Express Mongoose boilerplate EXTENDED](https://github.com/MilanVives/node-express-boilerplate)
 #### [Node best practices](https://github.com/MilanVives/nodebestpractices)
@@ -75,6 +65,20 @@ Neovim install and config
 #OS
 #### [Scheduling Algorithms in javascript](https://github.com/MilanVives/OS-SchedulingAlgorithms)
 
+# Server Management
+
+#### [MAcOS software to install](https://github.com/MilanVives/MacInstall)
+Ansible
+#### [MacAdmin MacOS Automatic Deployment and User Management](https://github.com/MilanVives/Macadmin)
+Neovim install and config
+#### [Neovim Installation script and config](https://github.com/MilanVives/nvim)
+
+
+# DrawIO
+
+#### [Opdrachten DrawIO PUBLIC](https://github.com/MilanVives/Opdrachten)
+#### [draw.io PRIVATE](https://github.com/MilanVives/draw.io)
+
 #MISC
 #### [Mindmap collection](https://github.com/MilanVives/Mindmap)
 
@@ -84,18 +88,13 @@ Neovim install and config
 #### [LatexAssignmentTemplate](https://github.com/MilanVives/laTexAssignmentTemplate)
 https://github.com/MilanVives/LaTexTemplateOpdracht
 
-# Linux
-#### [Linux Course and slides LaTex](https://github.com/u0148477/IntroductionToLinux)
-#### [Ubuntu Linux Server Bash Scripts PRIVATE](https://github.com/MilanVives/ServerBashScripts)
 
 TODO
 
 #### [](https://github.com/MilanVives/cheat-sheets
 #### [](https://github.com/MilanVives/boilerplates
 #### [](https://github.com/MilanVives/CloudInfraTemplate
-#### [](https://github.com/MilanVives/90DaysOfDevOps
-#### [](https://github.com/MilanVives/devops-directive-terraform-course
-#### [](https://github.com/MilanVives/devops-resources
+
 #### [](https://github.com/MilanVives/tf-python
 #### [](https://github.com/MilanVives/automated-github-organization-invites
 #### [](https://github.com/MilanVives/Docker-and-cloud-ExamenV2
