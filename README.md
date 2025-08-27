@@ -19,6 +19,8 @@ https://github.com/MilanVives/Overzicht
 
 **Monitoring**
 #### [Prometheus-Garafana-NodeExporter-cAdvisor compose stack PUBLIC](https://github.com/MilanVives/monitoring)
+#### [Monitoring Live deployments](https://github.com/MilanVives/monitoringURLS)
+#### [Monitor MacOS Wifi Connections](https://github.com/MilanVives/MacOSCheckin)
 
 **Proxy and Forwarders**
 #### [Nginx Load Balancer](https://github.com/MilanVives/nginxloadbalancer)
