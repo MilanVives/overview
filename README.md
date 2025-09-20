@@ -3,6 +3,10 @@
 # Overzicht projecten
 https://github.com/MilanVives/Overzicht
 
+# Online Course Material
+**Devops & Cloud Computing**
+#### [Devops & Cloud Computing](https://github.com/MilanVives/CourseDevops)
+
 # Devops
 
 **Dockerfile, Docker-compose, Github Actions CI-CD**
