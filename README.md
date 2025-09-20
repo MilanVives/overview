@@ -4,8 +4,10 @@
 https://github.com/MilanVives/Overzicht
 
 # Online Course Material
-**Devops & Cloud Computing**
+**Devops**
 #### [Devops & Cloud Computing](https://github.com/MilanVives/CourseDevops)
+**Linux**
+#### [Introduction to Linux Course and slides LaTex](https://github.com/u0148477/IntroductionToLinux)
 
 # Devops
 
@@ -41,7 +43,6 @@ https://github.com/MilanVives/Overzicht
 #### [Devops Resources](https://github.com/MilanVives/devops-resources)
 
 # Linux
-#### [Linux Course and slides LaTex](https://github.com/u0148477/IntroductionToLinux)
 #### [Ubuntu Linux Server Bash Scripts PRIVATE](https://github.com/MilanVives/ServerBashScripts)
 
 # Node.js
