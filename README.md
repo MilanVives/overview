@@ -1,5 +1,11 @@
 <img src="https://www.vives.be/themes/custom/vives/logo.svg" width="125">
 
+# Overzicht Organizations
+[AbinetVives](https://github.com/AbinetVives)
+[VIVES-Zuid](https://github.com/VIVES-Zuid)
+[VivesMDima](https://github.com/VivesMDima)
+[VivesNoord](https://github.com/VivesNoord)
+
 # Overzicht projecten
 https://github.com/MilanVives/Overzicht
 
