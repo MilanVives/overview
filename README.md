@@ -10,14 +10,14 @@
 https://github.com/MilanVives/Overzicht
 
 # Online Course Material
-**Devops**
+**♺ Devops**
 #### [📚 Devops & Cloud Computing](https://github.com/MilanVives/CourseDevops)
-**Linux**
+**🐧 Linux**
 #### [📚 Intro To linux New MD Course](https://github.com/MilanVives/IntroToLinux)
 #### [📚 Introduction to Linux Course and slides LaTex](https://github.com/u0148477/IntroductionToLinux)
-**Cybersec**
+**🛡️ Cybersec**
 #### [📚 Cybersec Architecture Labs](https://github.com/MilanVives/CyberSec)
-**iOS**
+** 📱 iOS**
 #### [📚 Demo @State and @Observable](https://github.com/MilanVives/iOS-demo-state-observable)
 #### [📚 Demo View with data, Grid & Tabview](https://github.com/MilanVives/iOS-demo-viewWithData-grid-tabview)
 #### [📚 Demo Custom Button & Gridrow](https://github.com/MilanVives/iOS-demo-customButton-gridrow)
