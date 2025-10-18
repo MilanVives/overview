@@ -21,8 +21,8 @@ https://github.com/MilanVives/Overzicht
 #### [  ∙ --- 📚 Demo @State and @Observable](https://github.com/MilanVives/iOS-demo-state-observable)
 #### [  ∙ --- 📚 Demo View with data, Grid & Tabview](https://github.com/MilanVives/iOS-demo-viewWithData-grid-tabview)
 #### [  ∙ --- 📚 Demo Custom Button & Gridrow](https://github.com/MilanVives/iOS-demo-customButton-gridrow)
-#### [  ∙ --- 📚 
-#### [  ∙ --- 📚 
+#### [  ∙ --- 📚 ]
+#### [  ∙ --- 📚 ]
 
 # Devops
 **Infrastructure as code**
@@ -128,17 +128,17 @@ Neovim install and config
 
 #### [Mintlify](https://github.com/MilanVives/docs)
 #### [LatexAssignmentTemplate](https://github.com/MilanVives/laTexAssignmentTemplate)
-https://github.com/MilanVives/LaTexTemplateOpdracht
+#### [Latex Template Opdracht](https://github.com/MilanVives/LaTexTemplateOpdracht)
 
 
 TODO
 
-#### [](https://github.com/MilanVives/cheat-sheets
-#### [](https://github.com/MilanVives/boilerplates
-#### [](https://github.com/MilanVives/CloudInfraTemplate
+#### [Cheat Sheets](https://github.com/MilanVives/cheat-sheets
+#### [Boilerplates](https://github.com/MilanVives/boilerplates
+#### [CloudInfraTemplate](https://github.com/MilanVives/CloudInfraTemplate
 
-#### [](https://github.com/MilanVives/tf-python
-#### [](https://github.com/MilanVives/automated-github-organization-invites
-#### [](https://github.com/MilanVives/Docker-and-cloud-ExamenV2
-#### [](https://github.com/MilanVives/autoportforward
-#### [](https://github.com/MilanVives/OpenLdapPHPAdmin
+#### [TF Python](https://github.com/MilanVives/tf-python
+#### [Auto Github Invites](https://github.com/MilanVives/automated-github-organization-invites
+#### [Docker & Cloud Ex](https://github.com/MilanVives/Docker-and-cloud-ExamenV2
+#### [Docker Auto  Port Forward](https://github.com/MilanVives/autoportforward
+#### [Open Ldad PHP Admin](https://github.com/MilanVives/OpenLdapPHPAdmin
