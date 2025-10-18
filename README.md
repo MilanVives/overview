@@ -10,7 +10,7 @@
 https://github.com/MilanVives/Overzicht
 
 # Online Course Material
-**♺ Devops**
+*♺ Devops*
 #### [  ∙ 📚 Devops & Cloud Computing](https://github.com/MilanVives/CourseDevops)
 **🐧 Linux**
 #### [  ∙ 📚 Intro To linux New MD Course](https://github.com/MilanVives/IntroToLinux)
