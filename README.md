@@ -74,11 +74,11 @@ https://github.com/MilanVives/Overzicht
 #### [Node Les 7 Code PUBLIC](https://github.com/MilanVives/NodeLes7)
 #### [Node Les 8 VivesBib Starter PRIVATE](https://github.com/VivesMDima/les8-Vivesbib-starter)
 
-#### [Node-React-Cors](https://github.com/MilanVives/node-react-cors
-#### [Advanced Node Starter](https://github.com/MilanVives/AdvancedNodeStarter
-#### [Node Express Mongo Demo](https://github.com/MilanVives/node-express-mongoose-demo
-#### [Node Express Mongoose](https://github.com/MilanVives/node-express-mongoose
-#### [Node App Mongo](https://github.com/MilanVives/NodeAppMongo
+#### [Node-React-Cors](https://github.com/MilanVives/node-react-cors)
+#### [Advanced Node Starter](https://github.com/MilanVives/AdvancedNodeStarter)
+#### [Node Express Mongo Demo](https://github.com/MilanVives/node-express-mongoose-demo)
+#### [Node Express Mongoose](https://github.com/MilanVives/node-express-mongoose)
+#### [Node App Mongo](https://github.com/MilanVives/NodeAppMongo)
 
 #### [Node Mongo App Docker](https://github.com/MilanVives/NodeMongoAppDocker)
 #### [MongoDB Mongoose Models](https://github.com/MilanVives/mongodb_mongoose_models)
