@@ -53,8 +53,8 @@ https://github.com/MilanVives/Overzicht
 **CI/CD**
 #### [3 Services - Starterproject Nodejs, JS/html and MongoDB](https://github.com/MilanVives/3services)
 #### [Jenkins Docker in Docker](https://github.com/MilanVives/JenkinsDockerInDocker)
-#### [](https://github.com/MilanVives/jenkinstest
-#### [](https://github.com/MilanVives/jenkinsles
+#### [Jenkins Test](https://github.com/MilanVives/jenkinstest
+#### [Jenkins Les](https://github.com/MilanVives/jenkinsles
 
 #### [90 Days of Devops](https://github.com/MilanVives/90DaysOfDevOps)
 #### [Devops Terraform Course](https://github.com/MilanVives/devops-directive-terraform-course)
