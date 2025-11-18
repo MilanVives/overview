@@ -22,7 +22,7 @@ https://github.com/MilanVives/Overzicht
 #### [  ∙ --- 📚 Demo @State and @Observable](https://github.com/MilanVives/iOS-demo-state-observable)
 #### [  ∙ --- 📚 Demo View with data, Grid & Tabview](https://github.com/MilanVives/iOS-demo-viewWithData-grid-tabview)
 #### [  ∙ --- 📚 Demo Custom Button & Gridrow](https://github.com/MilanVives/iOS-demo-customButton-gridrow)
-#### [  ∙ --- 📚 ]
+#### [  ∙ --- 📚 Demo Navigation by Navigation Stack with Path](https://github.com/MilanVives/SwiftDemoNavigationStackWithPath) 
 #### [  ∙ --- 📚 ]
 
 #### [Lab 1 Oplossing 🔐](https://github.com/VIVES-Zuid/iOS-Lab1-oplossing)
